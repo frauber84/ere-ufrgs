@@ -3,7 +3,7 @@ Ferramentas para Ensino Remoto Emergencial:
 
 ### **MconfChat**
 
-Ferramenta para lista de presença automatizada e relatório de participação no chat do MConf (https://mconf.ufrgs.br)
+Ferramenta para lista de presença  e relatório de participação no bate-papo do MConf (https://mconf.ufrgs.br)
 
 ### **ffmpeg-acessibilidade**
 
