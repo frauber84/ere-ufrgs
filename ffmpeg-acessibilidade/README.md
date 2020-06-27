@@ -1,6 +1,6 @@
 # ffmpeg-acessibilidade
 
-Presets para compressão de vídeo com foco em acessibilidade digital utilizando a biblioteca ffmpeg. 
+Presets para compressão de vídeo com foco em acessibilidade digital utilizando a biblioteca ffmpeg (build **Static** em https://ffmpeg.zeranoe.com/builds/). 
 
 **Utilização**: Arraste o arquivo de vídeo para um dos arquivos *batch*:
 *comprime.bat*: Comprime o vídeo a partir do bitrate do escolhido. 
