@@ -1,7 +1,7 @@
 # ffmpeg-acessibilidade
 
 Presets para compressão de vídeo com foco em **acessibilidade digital** utilizando a biblioteca ffmpeg (https://ffmpeg.zeranoe.com/builds/). 
-Soluções adaptativas empregadas por sites como o YouTube não são adequadas para o **ensino remoto**, pois resultam em perda de resolução e textos pixelados, além do *overhead* da própria plataforma (vídeos relacionados, propagandas, etc. Com estes *presets*, buscou-se otimizar a compressão para o contexto de **vídeo-aulas expositivas** (webcam + slides).
+Soluções adaptativas empregadas por sites como o YouTube não são adequadas para o **ensino remoto**, pois resultam em perda de resolução e textos pixelados, além do *overhead* da própria plataforma (vídeos relacionados, propagandas, etc). Com estes *presets*, buscou-se otimizar a compressão para o contexto de **vídeo-aulas expositivas** (webcam + slides).
 
 Vídeos de até 10 minutos com bitrates entre 128k e 256k podem possivelmente ser **distribuídos WhatsApp**, cujo tráfego de dados é liberado por algumas teleoperadores mesmos nos planos mais básicos.
 
