@@ -5,7 +5,7 @@ Soluções adaptativas empregadas por sites como o YouTube não são adequadas p
 
 Vídeos de até 10 minutos com bitrates entre 128k e 256k podem possivelmente ser **distribuídos WhatsApp**, cujo tráfego de dados é liberado por algumas teleoperadores mesmos nos planos mais básicos.
 
-OBS: é provável que os primeiros dez segundos do vídeo fiquem com um resultado inferior ao restante. 
+OBS: é provável que os primeiros dez segundos do vídeo fiquem com um resultado significativamente inferior ao restante. 
 
 ## **Utilização**
 
