@@ -3,7 +3,7 @@
 Presets para compressão de vídeo com foco em **acessibilidade digital** utilizando a biblioteca ffmpeg (https://ffmpeg.zeranoe.com/builds/). 
 Soluções adaptativas empregadas por sites como o YouTube não são adequadas para o **ensino remoto**, pois resultam em perda de resolução e textos pixelados, além do *overhead* da própria plataforma (vídeos relacionados, propagandas, etc). Com estes *presets*, buscou-se otimizar a compressão para o contexto de **vídeo-aulas expositivas** (webcam + slides).
 
-Vídeos de até 10 minutos com bitrates entre 128k e 256k podem possivelmente ser **distribuídos WhatsApp**, cujo tráfego de dados é liberado por algumas teleoperadores mesmos nos planos mais básicos.
+Vídeos de até 10 minutos com bitrates entre 128kbits/s e 256kbits/s podem possivelmente ser **distribuídos WhatsApp**, cujo tráfego de dados é liberado por algumas teleoperadores mesmos nos planos mais básicos. 
 
 OBS: é provável que os primeiros dez segundos do vídeo fiquem com um resultado significativamente inferior ao restante. 
 
@@ -24,7 +24,8 @@ Arraste o arquivo de vídeo para um dos arquivos *batch*:
 
 - Capturar uma janela/pedaço da tela em vez da tela inteira
 
-- 
+- Utilize fontes maiores e menor quantidade de informação por slide
+
 
 ## **Parâmetros de compressão**
 
