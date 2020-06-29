@@ -37,6 +37,6 @@ Os seguintes parâmetros são utilizados na conversão.
 
 - *Preset*: Otimiza para velocidade de compressão ("-preset veryfast"). 
 
-- *Resolução*: A resolução de origem é mantida. É possível forçar decrescimo de resolução para 720p em casos de vídeos acima desta resolução com o parâmetro  " -vf scale='if(gte(ih\,720)\,720\,iw)':-2 ", porém os resultados testados não foram satisfatórios.
+- *Resolução*: A resolução de origem é mantida. É possível forçar decrescimo de resolução para 720p em casos de vídeos acima desta resolução com o parâmetro  " -vf scale='if(gte(ih\,720)\,720\,iw)':-2 ", porém os resultados testados foram menos satisfatórios.
 
 - *Codec*: H.264 (" -c:v libx264 ")
