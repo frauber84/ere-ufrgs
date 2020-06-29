@@ -11,9 +11,9 @@ OBS: é provável que os primeiros dez segundos do vídeo fiquem com um resultad
 
 Arraste o arquivo de vídeo para um dos arquivos *batch*:
 
-*comprime.bat*: Comprime o vídeo a partir do bitrate do escolhido. 
+*comprime.bat*: Comprime o vídeo com o bitrate escolhido. 
 
-*comprime_todos.bat*: Comprime todos vídeos do diretório com a extensão indicada
+*comprime_todos.bat*: Comprime todos vídeos do diretório (por extensão) com o bitrate escolhido
 
 
 ## Sugestões para melhores resultados
