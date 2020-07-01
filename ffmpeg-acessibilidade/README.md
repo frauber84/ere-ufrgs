@@ -9,6 +9,8 @@ OBS: é provável que os primeiros dez segundos do vídeo fiquem com um resultad
 
 ## **Utilização**
 
+Tutorial: https://youtu.be/OrOgc4fVhBA
+
 Arraste o arquivo de vídeo para um dos arquivos *batch*:
 
 *comprime.bat*: Comprime o vídeo com o bitrate escolhido. 
