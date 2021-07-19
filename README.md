@@ -1,12 +1,6 @@
 # ere-ufrgs
 Ferramentas para Ensino Remoto Emergencial:
 
-### **MapaPOA**
-
-Mapeamento social a partir do CEP. Categoriza por Renda, IDH e Índice de Vulnerabilidade Social (IDS).
-
-Versão web: https://mapapoa.pythonanywhere.com
-
 ### **ffmpeg-acessibilidade**
 
 Arquivos batch (.bat) para Windows com presets para compressão de vídeo com foco em acessibilidade digital utilizando a biblioteca ffmpeg
@@ -17,3 +11,8 @@ Ferramenta para lista de presença  e relatório de participação no bate-papo 
 
 Versão web: https://mconf.pythonanywhere.com
 
+### **MapaPOA**
+
+Mapeamento social a partir do CEP. Categoriza por Renda, IDH e Índice de Vulnerabilidade Social (IDS).
+
+Versão web: https://mapapoa.pythonanywhere.com
